@@ -30,3 +30,7 @@ management:
     web:
       exposure:
         include: "*"
+
+jwt:
+  secret: 4P7yQwN2xLm8RkJ5vHs9AaBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890ABCD
+  expiration: 3600000
